@@ -1,0 +1,3 @@
+error_handler:
+  ros__parameters:
+    restart_wait: 2.0

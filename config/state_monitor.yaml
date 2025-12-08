@@ -1,0 +1,3 @@
+state_monitor:
+  ros__parameters:
+    check_period: 1.0
