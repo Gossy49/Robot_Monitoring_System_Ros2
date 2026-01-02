@@ -1,0 +1,5 @@
+string sensor_name
+---
+bool accepted
+string info
+
